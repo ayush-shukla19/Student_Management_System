@@ -1,5 +1,5 @@
 # Student_Management_System
-Built a full-stack web application using HTML, CSS, and Bootstrap, PHP, jQuery, MySQL for efficient college management. 
+Built a full-stack web application using HTML, CSS, and Bootstrap, PHP, jQuery, MySQL for efficient college management. <br>
 Features include:
 
 Role-based login & dashboards (Admin, Teacher, Student)
